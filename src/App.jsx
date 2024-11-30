@@ -8,6 +8,7 @@ import Cards from './components/Cards'
 import Footer from './components/Footer'
 import Footerline from './components/Footerline'
 import LocomotiveScroll from 'locomotive-scroll';
+import { HashRouter } from 'react-router-dom';
 
 
 function App() {
